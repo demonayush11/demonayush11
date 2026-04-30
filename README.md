@@ -2,9 +2,10 @@
 
 🎓 CS Student | 💻 Full Stack Developer | 🚀 Builder
 
-I love building projects that solve real problems.
-Currently working on **Campus Connect** — a social 
-media platform for college students.
+I enjoy building scalable systems and products that solve real-world problems.  
+Passionate about turning ideas into functional, user-focused applications with clean and efficient code.  
+
+Continuously learning new technologies, improving problem-solving skills, and exploring how systems work at scale ⚡.
 
 > La discipline est le pont entre les objectifs et l'accomplissement. ||
 
