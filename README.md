@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey, I'm Ayush Kumar! 👋
 
-<!--
-**demonayush11/demonayush11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Student | 💻 Full Stack Developer | 🚀 Builder
 
-Here are some ideas to get you started:
+I love building projects that solve real problems.
+Currently working on **Campus Connect** — a social 
+media platform for college students.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> La discipline est le pont entre les objectifs et l'accomplissement. ||
+
+Have a project? 💡 Feel free to reach out!
+📧 ayush.tanay2314@gmail.com
+
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=demonayush11&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demonayush11&layout=compact&theme=tokyonight" height="160"/>
+
+</div>
+
+
+## 🛠️ Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/demonayush)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/demonayush11)
